@@ -1,8 +1,10 @@
 # Skins
 This section contains all skins for the planes etc.
 
-Designers can write.
+Only the designers can add new files to this repository.
 
-Members can read.
+# Download and install
+Download the .zip folder by clicking on "Download as zip" in the top right corner.
+Install the files using JSGME and / or manually.
 
-DCS Aggressors
+- Install instructions in work.
